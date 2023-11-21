@@ -1,0 +1,1 @@
+Node. js is a compelling JavaScript-based platform that's built on Google Chrome's JavaScript V8 Engine. It is used to develop I/O intensive web applications, such as video streaming sites, single-page applications, online chat applications, and other web apps.
