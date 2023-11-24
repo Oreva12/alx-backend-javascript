@@ -1,0 +1,1 @@
+Unit testing is commonly done using testing frameworks. One popular testing framework for JavaScript is Jest, developed by Facebook. Jest is known for its simplicity and ease of use, making it a good choice for writing unit tests.
